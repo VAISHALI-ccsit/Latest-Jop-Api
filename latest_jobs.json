@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "image": "https://www.shutterstock.com/image-vector/were-hiring-concept-minimal-business-260nw-2145494671.jpg",
+    "profile": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Accenture",
+    "image": "https://www.shutterstock.com/image-vector/job-vacancy-templates-we-hire-260nw-1885598128.jpg",
+    "profile": "Android Developer"
+  },
+  {
+    "id": 3,
+    "name": "Microsoft",
+    "image": "https://www.shutterstock.com/image-vector/were-hiring-concept-minimal-business-260nw-2145494671.jpg",
+    "profile": "Software Engineer"
+  },
+  {
+    "id": 4,
+    "name": "Capgemini India Pvt Ltd.",
+    "image": "https://www.shutterstock.com/image-vector/job-vacancy-templates-we-hire-260nw-1885598128.jpg",
+    "profile": "Full Stack Developer"
+  },
+  {
+    "id": 5,
+    "name": "Wipro",
+    "image": "https://www.shutterstock.com/image-vector/were-hiring-concept-minimal-business-260nw-2145494671.jpg",
+    "profile": "Backend Developer"
+  },
+  {
+    "id": 6,
+    "name": "Amazon",
+    "image": "https://www.shutterstock.com/image-vector/job-vacancy-templates-we-hire-260nw-1885598128.jpg",
+    "profile": "Android Developer"
+  },
+  {
+    "id": 7,
+    "name": "HCL Technologies",
+    "image": "https://www.shutterstock.com/image-vector/were-hiring-concept-minimal-business-260nw-2145494671.jpg",
+    "profile": "Full Stack Developer"
+  },
+  {
+    "id": 8,
+    "name": "Apple",
+    "image": "https://www.shutterstock.com/image-vector/job-vacancy-templates-we-hire-260nw-1885598128.jpg",
+    "profile": "Frontend Developer"
+  },
+  {
+    "id": 9,
+    "name": "Meta",
+    "image": "https://www.shutterstock.com/image-vector/were-hiring-concept-minimal-business-260nw-2145494671.jpg",
+    "profile": "AI/ML Developer"
+  },
+  {
+    "id": 10,
+    "name": "Cognizant",
+    "image": "https://www.shutterstock.com/image-vector/job-vacancy-templates-we-hire-260nw-1885598128.jpg",
+    "profile": "Android Developer"
+  },
+  {
+    "id": 11,
+    "name": "Tech Mahindra",
+    "image": "https://www.shutterstock.com/image-vector/were-hiring-concept-minimal-business-260nw-2145494671.jpg",
+    "profile": "Frontend Developer"
+  },
+  {
+    "id": 12,
+    "name": "Tech Mahendra",
+    "image": "https://www.shutterstock.com/image-vector/job-vacancy-templates-we-hire-260nw-1885598128.jpg",
+    "profile": "AI/ML Developer"
+  },
+  {
+    "id": 13,
+    "name": "Google",
+    "image": "https://www.shutterstock.com/image-vector/were-hiring-concept-minimal-business-260nw-2145494671.jpg",
+    "profile": "Backend Developer"
+  },
+  {
+    "id": 14,
+    "name": "Infosis",
+    "image": "https://www.shutterstock.com/image-vector/job-vacancy-templates-we-hire-260nw-1885598128.jpg",
+    "profile": "Software Engineer"
+  },
+  {
+    "id": 15,
+    "name": "TCS",
+    "image": "https://www.shutterstock.com/image-vector/were-hiring-concept-minimal-business-260nw-2145494671.jpg",
+    "profile": "Full Stack Developer"
+  }
+]
